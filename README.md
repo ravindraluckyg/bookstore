@@ -4,6 +4,8 @@
 
 ## Running application
 
+-   Open terminal and run `composer install`
+-   Open another terminal and run `npm install` and `npm watch`
 -   To create admin, run command `php artisan db:seed --class=UserSeeder`
     this will create admin user with below credential
     email: admin@admin.com
